@@ -1,0 +1,14 @@
+C:\Users\eloik\source\repos\Promillerechner\bin\Debug\net8.0\Promillerechner.exe
+C:\Users\eloik\source\repos\Promillerechner\bin\Debug\net8.0\Promillerechner.deps.json
+C:\Users\eloik\source\repos\Promillerechner\bin\Debug\net8.0\Promillerechner.runtimeconfig.json
+C:\Users\eloik\source\repos\Promillerechner\bin\Debug\net8.0\Promillerechner.dll
+C:\Users\eloik\source\repos\Promillerechner\bin\Debug\net8.0\Promillerechner.pdb
+C:\Users\eloik\source\repos\Promillerechner\obj\Debug\net8.0\Promillerechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eloik\source\repos\Promillerechner\obj\Debug\net8.0\Promillerechner.AssemblyInfoInputs.cache
+C:\Users\eloik\source\repos\Promillerechner\obj\Debug\net8.0\Promillerechner.AssemblyInfo.cs
+C:\Users\eloik\source\repos\Promillerechner\obj\Debug\net8.0\Promillerechner.csproj.CoreCompileInputs.cache
+C:\Users\eloik\source\repos\Promillerechner\obj\Debug\net8.0\Promillerechner.dll
+C:\Users\eloik\source\repos\Promillerechner\obj\Debug\net8.0\refint\Promillerechner.dll
+C:\Users\eloik\source\repos\Promillerechner\obj\Debug\net8.0\Promillerechner.pdb
+C:\Users\eloik\source\repos\Promillerechner\obj\Debug\net8.0\Promillerechner.genruntimeconfig.cache
+C:\Users\eloik\source\repos\Promillerechner\obj\Debug\net8.0\ref\Promillerechner.dll
